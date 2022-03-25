@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_ros_test",
+  "version": "1.0.0",
+  "description": "NodeJS App to test ROS capabilites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranzLuepke/NodeJS_ROS_Test.git"
+  },
+  "keywords": [
+    "ROS",
+    "NodeJS",
+    "web",
+    "socket"
+  ],
+  "author": "Franz Luepke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranzLuepke/NodeJS_ROS_Test/issues"
+  },
+  "homepage": "https://github.com/FranzLuepke/NodeJS_ROS_Test#readme",
+  "dependencies": {
+    "rosnodejs": "^3.0.2",
+    "websocket": "^1.0.34"
+  }
+}
