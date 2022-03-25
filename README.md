@@ -36,7 +36,7 @@ The following command will run a basic web socket server on ws://localhost:8081/
 node src/server.js
 ```
 
-Then in another tab run the client to connect to ws://localhost:8081/
+Then in another tab run the client to connect to ws://localhost:8081/ (This won't work if server is not running)
 ```
 node src/client.js
 ```
@@ -55,7 +55,7 @@ The following command will run a ROS node in NodeJS with a basic web socket serv
 node src/rosAndServer.js
 ```
 
-Then you have to write from a client, in this repository there are two examples of clients, the one used in *Run basic web socket server an client* and the following one that also has a web server.
+Then you have to write from a client, in this repository there are two examples of clients, the one used in *Run basic web socket server an client* and the following one that also has a web server. (This won't work if server is not running)
 ```
 node src/frontendWithSocket.js
 ```
