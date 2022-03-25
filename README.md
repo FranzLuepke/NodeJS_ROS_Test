@@ -12,12 +12,7 @@ This repository is intended to be a minimal guide to basic NodeJS App, web socke
 
 ## How to run
 
-In order to run files you need to move into _src_ folder, run installs and select which NodeJS App to run.
-
-Move to _src_ folder: (from repository root)
-```
-cd src
-```
+In order to run files you need to run installs and then select which NodeJS App to run.
 
 Install libraries:
 ```
