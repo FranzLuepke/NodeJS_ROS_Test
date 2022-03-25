@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/FranzLuepke/NodeJS_ROS_Test#readme",
   "dependencies": {
-    "rosnodejs": "^3.0.2"
+    "rosnodejs": "^3.0.2",
+    "websocket": "^1.0.34"
   }
 }
